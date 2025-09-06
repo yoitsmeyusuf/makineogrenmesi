@@ -3,8 +3,8 @@
 Bu projede temel makine öğrenmesi algoritmalarının Python ile örnek uygulamaları ve Jupyter Notebook dosyaları yer alacaktır.
 
 ## Klasörler
-- algorithms/: Algoritma kodları
-- notebooks/: Kullanım örnekleri ve açıklamalar
+- algorithms/: Algoritma kodları ve notlar
+
 
 ## İçerik
 - Regresyon
@@ -18,6 +18,10 @@ Bu projede temel makine öğrenmesi algoritmalarının Python ile örnek uygulam
 - numpy
 - matplotlib
 - jupyter
+- tensorflow
+- xgboost
+- lightgbm
+- catboost
 
 Kurulum için:
 ```bash
