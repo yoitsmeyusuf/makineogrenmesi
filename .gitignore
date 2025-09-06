@@ -72,6 +72,9 @@ Thumbs.db
 *.h5
 *.hdf5
 
+# CatBoost
+catboost_info/
+
 # Temporary files
 tmp/
 temp/
